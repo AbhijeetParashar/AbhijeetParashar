@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbhijeetParashar
-- 👀 I’m interested in Almost everything
-- 🌱 I’m currently learning Data Structure
-- 💞️ I’m looking to collaborate on React Js Project
+- 👀 I’m interested in Next Js, React Js
+- 🌱 I’m currently learning Data Structure and working on Open Source Project
+- 💞️ I’m looking to collaborate on React Js Project, Next JS Project
 - 📫 How to reach me ... @ iamabhijeet.29@gmail.com
 
 <!---
