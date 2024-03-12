@@ -13,13 +13,13 @@
 
 ## Glad to see you here! &nbsp; 
 
-👋 Hi there, I'm @AbhijeetParashar, a passionate Frontend Developer with a keen interest in Next.js and React.js. Currently diving into the world of Data Structures and contributing to exciting Open Source projects.
+👋 Hi there, I'm a passionate Frontend Developer with a keen interest in Next.js and React.js. I am currently diving into the world of Data Structures and contributing to exciting Open Source projects.
 
 🌱 I'm dedicated to continuous learning, striving to enhance my coding skills and create seamless user experiences. My journey involves collaborating on React.js and Next.js projects, where innovation meets code.
 
 💻 Let's build something amazing together! Open to collaborations and always excited about new challenges.
 
-📫 Reach out to me at iamabhijeet.29@gmail.com. Lets connect and code the future because I like to make things that make a difference !
+📫 Reach out to me at iamabhijeet.29@gmail.com. Let's connect and code the future because I like to make things that make a difference!
 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="408" height="380" />
