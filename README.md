@@ -13,7 +13,7 @@
 
 ## Glad to see you here! &nbsp; 
 
-👋 Hi there, I'm a passionate Frontend Developer with a keen interest in Next.js and React.js. I am currently diving into the world of Data Structures and contributing to exciting Open Source Projects.
+👋 Hi there, I'm a passionate Frontend Developer with a keen interest in Next.js and React.js. I am currently diving into the world of Data Structures and contributing to exciting Open Source projects.
 
 🌱 I'm dedicated to continuous learning, striving to enhance my coding skills and create seamless user experiences. My journey involves collaborating on React.js and Next.js projects, where innovation meets code.
 
