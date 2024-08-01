@@ -60,7 +60,7 @@
 
 ## 🏆 Github Status 
 <img  src="https://github-stats-lemon.vercel.app/api?username=AbhijeetParashar&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" >
-<!-- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijeetParashar&theme=tokyonight" width="48%"> -->
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijeetParashar&theme=tokyonight" width="48%">
 
 ## 🌟 Most Used Weapons 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=AbhijeetParashar&show_icons=true&locale=en&layout=compact&theme=tokyonight)
