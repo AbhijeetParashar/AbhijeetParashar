@@ -27,12 +27,10 @@
 
 ### Talking about Personal Stuff:&nbsp; 
 
-- 👨‍🎓 I'm a **Senior Software Engineering / Full stack Web Developer**
-- 🔭 I’m currently working at **@FragmaDataSystem**
+- 👨‍🎓 I'm a **Senior Technical Consultant / Full Stack Engineering Lead**
+- 🔭 I’m currently working at **@Emirates National Bank of Dubai**
 
-- 🤔 I’m looking for help with digital marketing to drive traffic to my website
-
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Development, Open Finance, AI, React, Node, AWS, Banking**
 
 - 🌱 I'm currently learning:
   - Data Structures and Algorithms on [LeetCode](https://leetcode.com/Abhijeet_Kumar29/)
