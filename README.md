@@ -37,7 +37,7 @@
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
   
 - 📫 Reach me @ **[LinkedIn](https://www.linkedin.com/in/abhijeetkumar29/), [Instagram](https://www.instagram.com/bas_kar_avi/)**
-- 📝 [Resume](https://drive.google.com/file/d/1rsjGKUXZD3YEfkBX9Rj3JneqAloiCrMm/view).
+- 📝 [Resume](https://drive.google.com/file/d/1Kw6R3TZ4oFWXPqaBekvv_rZmC3ZPoIdv/view?usp=sharing).
 
 - 💪 This is where I write, code and solve problems:
 
